@@ -1,0 +1,12 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TestSuite1,Chrome 73.0.3683.86,,2019-04-03 18:18:21,2019-04-03 18:18:57,"35,469s",PASSED
+,,,,,,
+Test Cases/TestCase-1,Chrome 73.0.3683.86,,2019-04-03 18:18:22,2019-04-03 18:18:47,"25,520s",PASSED
+"openBrowser("""")",Chrome 73.0.3683.86,,2019-04-03 18:18:22,2019-04-03 18:18:40,"17,523s",PASSED
+"navigateToUrl(""lifecharger.org"")",Chrome 73.0.3683.86,,2019-04-03 18:18:40,2019-04-03 18:18:46,"6,711s",PASSED
+closeBrowser(),Chrome 73.0.3683.86,,2019-04-03 18:18:46,2019-04-03 18:18:47,"0,799s",PASSED
+,,,,,,
+Test Cases/TestCase2,Chrome 73.0.3683.86,,2019-04-03 18:18:47,2019-04-03 18:18:57,"9,555s",PASSED
+"openBrowser("""")",Chrome 73.0.3683.86,,2019-04-03 18:18:47,2019-04-03 18:18:52,"4,264s",PASSED
+"navigateToUrl(""www.google.com"")",Chrome 73.0.3683.86,,2019-04-03 18:18:52,2019-04-03 18:18:56,"4,448s",PASSED
+closeBrowser(),Chrome 73.0.3683.86,,2019-04-03 18:18:56,2019-04-03 18:18:57,"0,591s",PASSED
